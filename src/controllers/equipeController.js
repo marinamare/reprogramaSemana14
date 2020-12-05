@@ -1,3 +1,4 @@
+/*
 const equipe = require("../models/equipe.js");
 
 const getColaboradoras = (req, res) => {
@@ -101,7 +102,7 @@ const putColaboradora = (req, res) => {
   } catch (err) {
     return res.status(424).send({ message: err });
   }
-}; */
+}; 
 
 module.exports = {
   getColaboradoras,
@@ -111,3 +112,4 @@ module.exports = {
   putColaboradora,
   // patchColaboradora,
 };
+*/
