@@ -12,7 +12,7 @@ Depois de aprender sobre como integrar nosso servidor local ao banco de dados Mo
 
 - [x] Possibilidade de **vizualização de todos os livros cadastrados** através da rota "http://localhost:8080/livros";
 - [x] Filtro de **visualização de livros por id** através da rota "http://localhost:8080/livros/id", substituindo a palavra *id* pelo número de identificação do livro desejado; 
-- [] Filtro que permite a visualização de **livros por categoria** através da rota "http://localhost:8080/livros?categoria=nomeDaCategoria"; 
+[] Filtro que permite a visualização de **livros por categoria** através da rota "http://localhost:8080/livros?categoria=nomeDaCategoria"; 
 - [x] Função de adição de novo livro operando com auxílio do método http **POST** através da rota "http://localhost/livros/"; 
 - [x] Método http **DELETE** integrado à API, possibilitando a exclusão de livros registrados, tomando como parâmetro seu ID; 
 - [x] Possibilidade de executar *modificações parciais ou totais* no registro de uma colaboradora dada a integração dos métodos **PUT** API;
